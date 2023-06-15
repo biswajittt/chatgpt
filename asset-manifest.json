@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/chatgpt/static/css/main.75b13df0.css",
+    "main.js": "/chatgpt/static/js/main.f22ba422.js",
+    "static/media/possibilityImage.png": "/chatgpt/static/media/possibilityImage.8a876e1510907ec9d26f.png",
+    "static/media/blog1.png": "/chatgpt/static/media/blog1.6d4f490a627d77a77afe.png",
+    "static/media/blog3.png": "/chatgpt/static/media/blog3.4f99f1142c72e900a362.png",
+    "static/media/blog4.png": "/chatgpt/static/media/blog4.52507101872351b7c46e.png",
+    "static/media/blog5.png": "/chatgpt/static/media/blog5.8b675f859d384ebdd2a8.png",
+    "static/media/blog2.png": "/chatgpt/static/media/blog2.c63d5e26a5e07e9f04d2.png",
+    "static/media/ai.png": "/chatgpt/static/media/ai.ccb77c6ef77a50e1e834.png",
+    "static/media/people.png": "/chatgpt/static/media/people.762b95d3fb7b372e8ca8.png",
+    "static/media/dropbox.png": "/chatgpt/static/media/dropbox.df262a9963f55b1c82af.png",
+    "static/media/atlassian.png": "/chatgpt/static/media/atlassian.42dc2961e7167878f030.png",
+    "static/media/logo.svg": "/chatgpt/static/media/logo.3a0f32af9274972cc2721d31eb96ceff.svg",
+    "index.html": "/chatgpt/index.html",
+    "main.75b13df0.css.map": "/chatgpt/static/css/main.75b13df0.css.map",
+    "main.f22ba422.js.map": "/chatgpt/static/js/main.f22ba422.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75b13df0.css",
+    "static/js/main.f22ba422.js"
+  ]
+}
